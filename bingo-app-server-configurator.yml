@@ -1,0 +1,4 @@
+BINGO_APP_SERVER_CONFIGURATOR:
+  STATIC_DATA_UPDATE_ACTION:
+    DESTINATION_FILES:
+      data: /opt/data/config/data.json
